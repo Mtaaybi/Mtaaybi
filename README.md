@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**Mtaaybi/Mtaaybi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on multiple C projects at 1333 school.<br>🌱 I’m also learning the C language.<br>💬 Ask me anything; I’ll do my best to help!<br>⚡ Fun fact: I started with Scratch 🐱
 
