@@ -10,5 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtaaybi&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![MTAYBI's 42 stats](https://badge.mediaplus.ma/greenbinary/MTAYBI)](https://github.com/oakoudad/badge42)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
